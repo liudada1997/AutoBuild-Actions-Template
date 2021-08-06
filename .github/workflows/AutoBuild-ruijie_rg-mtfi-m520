@@ -4,7 +4,7 @@
 #   Author: Hyy2001X                                      #
 ###########################################################
 
-name: ruijie_rg-mtfi-m520_Workflow
+name: ruijie_rg-mtfi-m520
 
 ### 以下内容请保持不变 (请修改下方: 环境变量设置)
 on:
