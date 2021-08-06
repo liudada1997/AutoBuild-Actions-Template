@@ -17,13 +17,13 @@ on:
         default: 'false'
       CONFIG_FILE:
         description: '调用的 [.config] 文件名称'
-        default: 'x86_64'
+        default: 'ruijie_rg-mtfi-m520'
       DEFAULT_SOURCE:
         description: '源码:分支 [必选]'
         default: 'coolsnowwolf/lede:master'
       IP:
         description: '固件 IP 地址 [可选]'
-        default: ''
+        default: '192.168.188.254'
       DELETE_USELESS_FILES:
         description: '清理无用文件 [可选]'
         default: 'true'
