@@ -5,12 +5,12 @@
 Diy_Core() {
 
 	Author=
-	Default_LAN_IP=192.168.1.1
+	Default_LAN_IP=192.168.188.254
 	Load_CustomPackages_List=true
 	Short_Firmware_Date=true
 	Checkout_Virtual_Images=false
 
-	INCLUDE_AutoBuild_Features=true
+	INCLUDE_AutoBuild_Features=false
 	INCLUDE_DRM_I915=false
 	INCLUDE_Argon=false
 	INCLUDE_Obsolete_PKG_Compatible=false
